@@ -1,7 +1,7 @@
 [module.hugoVersion]
 min = "0.128.0"
 
-theme = "blowfish"
+theme = "hugo-coder"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 

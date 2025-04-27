@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "fr"
-languageName = "Francais"
+languageCode = "en"
+languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Portfolio of Thomas ROBERT"
 
 [params]
-  displayName = "FR"
-  isoCode = "fr"
+  displayName = "EN"
+  isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
