@@ -1,3 +1,17 @@
 [module.hugoVersion]
 min = "0.128.0"
 
+theme = "blowfish"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
+
+enableSearch = true
+
+[services]
+    [services.googleAnalytics]
+        id = 'G-07DM58CWLF'
+
+[privacy]
+    [privacy.googleAnalytics]
+        disable = false
+        respectDoNotTrack = false
