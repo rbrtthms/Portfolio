@@ -1,0 +1,4 @@
+baseURL = 'https://rbrtthms.github.io/'
+languageCode = 'fr-fr'
+title = 'My New Hugo Site'
+theme = 'hugo-coder'
